@@ -1,6 +1,6 @@
-# Adapter-pattern
+# Decorator pattern
 
-## Adapter predstavlja klasu koja omogucava komunikaciju izmedju dva interfejsa. Pogledati primjer iznad.
+##Built object in runtime. Često bolje od nasljeđivanja jer se ne krši drugi SOLID princip (open for extension close for modification) 
 
 There are three categories in design patterns: creational, structural, and behavioral.
 Creational patterns provide a way to make objects, while hiding the creation logics, rather than
@@ -9,7 +9,7 @@ Creational patterns: Abstract Factory, Builder, Factory Method, Object Pool, Pro
 
 **Structural** patterns are all about class, and object composition. 
 This design pattern tends to ease the design by identifying a simple way to realize relationships between entities.
-Structural design patterns: **Adapter**, Bridge, Composite, Decorator, Façade, Flyweight, and Proxy.
+Structural design patterns: Adapter, Bridge, Composite, **Decorator**, Façade, Flyweight, and Proxy.
 
 Behavioral patterns are specifically concerned with communication between objects, that is, 
 how objects communicate with each other.

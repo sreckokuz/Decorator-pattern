@@ -1,6 +1,6 @@
 # Decorator pattern
 
-## Built object in runtime. Često bolje od nasljeđivanja jer se ne krši drugi SOLID princip (open for extension close for modification) 
+## Kreiramo objekat "in runtime". Često bolje od nasljeđivanja jer se ne krši drugi SOLID princip (open for extension, close for modification) 
 
 There are three categories in design patterns: creational, structural, and behavioral.
 Creational patterns provide a way to make objects, while hiding the creation logics, rather than
